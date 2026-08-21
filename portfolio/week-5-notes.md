@@ -2,6 +2,7 @@
 install ollama
 
 # Part 2 #
+see model-comparison.md
 
 # Part 3 #
 
