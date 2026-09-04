@@ -34,6 +34,9 @@ print(result)
 Result:
 [{'label': 'NEGATIVE', 'score': 0.981253445148468}]
 
+<img width="1010" height="168" alt="image" src="https://github.com/user-attachments/assets/41be0123-cb06-4536-8180-c7ddf01e5f23" />
+
+
 Part 3 — Why this matters for Ochre Ridge
 
 1. Maintainer Instructions
