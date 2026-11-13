@@ -59,7 +59,7 @@ duckie@duckyulon:~$ docker logs driver-display --tail 20
 
 # Camera Observations #
 ## 1 ##
-Wide lens, distorted, very fish eyed. Could cause the bot to "think" that objects are too far/close.
+Wide lens, distorted, very fish eyed and purple. Could cause the bot to "think" that objects are too far/close.
 The reason calibrations are necessary, to compensate for the distortions, camera angle.
 
 ## 2 ##
@@ -69,3 +69,8 @@ Too many frames could be too much information and overload the processor... But 
 ## 3 ##
 Low quality, washed out, grainy. Wont cause too much issues, bot only really sees in b&w. 
 If quality is too low, or out of focus, the bot could get confused by what it sees.
+
+# Data Sets #
+207 road following images
+71 blocked images
+62 free images
